@@ -6,5 +6,5 @@ def Get_name(my_name):
     Returns:
         None
     """
-    print("this is {}".format(my_name))
+    print("This is {}".format(my_name))
 
